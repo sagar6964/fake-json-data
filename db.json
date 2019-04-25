@@ -1,14 +1,8 @@
-[
+
   {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+    "Profiles":[
+      {"id":1,"name":"dhavan","age":24},
+      {"id":2,"name":"dhoni","age":21},
+      {"id":3,"name":"viru","age":22}]
+  } 
+   
